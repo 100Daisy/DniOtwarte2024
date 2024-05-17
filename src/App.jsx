@@ -68,7 +68,7 @@ function App() {
           <Upvote index={2} icon={faRobot} text="Technik robotyk"/>
           <Upvote index={3} icon={faGears} text="Technik mechatronik"/>
           <Upvote index={4} icon={faMicrochip} text="Technik elektronik"/>
-          <a href="https://elektronik.edu.pl" target='__blank'><Upvote icon={faEarth} noLikeUI text="Rekrutacja" subtext="Ucz się z najlepszymi"/></a>
+          <a href="https://elektronik.edu.pl/index.php?option=com_content&view=article&id=909&Itemid=396" target='__blank'><Upvote icon={faEarth} noLikeUI text="Rekrutacja" subtext="Ucz się z najlepszymi"/></a>
         </div>
         <div className='devStack'>
           <a href="https://vitejs.dev" target="_blank">
